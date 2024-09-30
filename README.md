@@ -33,7 +33,7 @@
 - reservation_status: Whether a customer has checked out or canceled,or not showed 
 - reservation_status_date: Date of making reservation status.
 
-
+Performed EDA and answer these questions:
  Q1) Which agent makes the most no. of bookings?
  Q2) Which room type is in most demand and which room type generatesthe  highest adr?
  Q3) Which meal type isthe  most preffered meal of customers?
@@ -56,4 +56,22 @@
  Q20) Does not alloting the  same room as demanded affect adr? 
  Q21) What is the trend of bookings within a month?
  Q22) Which types of customers mostly make bookings?
+
+ Conclusion:
+ (1) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
+(2) Mostly guests stay for less than 5 days in hotel and for longer stays Resort hotel is preferred.
+(3) Both hotels have significantly higher booking cancellation rates and very few guests less than 3 % return for another booking in City hotel. 5% guests return for stay in Resort hotel.
+(4) Most of the guests came from european countries, with most of guests coming from Portugal.
+(5) Guests use different channels for making bookings out of which most preferred way is TA/TO.
+(6) For hotels higher adr deals come via GDS channel, so hotels should increase their popularity on this channel.
+(7) Almost 30% of bookings via TA/TO are cancelled.
+(8) Not getting same room as reserved, longer lead time and waiting time do not affect cancellation of bookings. Although different room allotment do lowers the adr.
+(9) July- August are the most busier and profitable months for both of hotels. 
+(10) Within a month, adr gradually increases as month ends, with small sudden rise on weekends.
+(11) Couples are the most common guests for hotels, hence hotels can plan services according to couples needs to increase revenue.
+(12) More number of people in guests results in more number of special requests.
+(13) Bookings made via complementary market segment and adults have on average high no. of special request.
+(14) For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr.
+
+And many more conclusions.
 
